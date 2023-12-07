@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/denninge/projects/Base-ROS-Environment/devel -DCMAKE_INSTALL_PREFIX=/home/denninge/projects/Base-ROS-Environment/install -G Unix Makefiles
